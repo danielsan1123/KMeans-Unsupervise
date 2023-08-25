@@ -1,2 +1,1 @@
-# KMeans-Unsupervise
-A guided project from Coursera
+This is an introductory guided project on KMeans-Unsupervise from Coursera, created by Professor Ryan Ahmed. Through this project, I gained knowledge on the application of KMeans with Sklearn, Mathplotlib, Numpy, Seaborn, and Pandas. I used these tools to create customer segmentation for marketing purposes.
